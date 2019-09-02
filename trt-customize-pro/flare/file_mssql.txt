@@ -1,0 +1,118 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+
+<HEAD>
+<TITLE>The Euro+Med Plantbase Project</TITLE>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<LINK REL="SHORTCUT ICON" HREF="http://ww2.bgbm.org/EuroPlusMed/images/favicon.ico">
+<link rel="stylesheet" href="style.css" type="text/css">
+	<!-- Firefox plugin scripts -->
+	<script type="text/javascript">
+	function errorMsg()
+	{
+	  alert("Netscape 6 or Mozilla is needed to install a sherlock plugin");
+	} 
+	function addEngine(name,ext,cat) {
+	  if ((typeof window.sidebar == "object") && (typeof window.sidebar.addSearchEngine == "function"))
+	  {
+		window.sidebar.addSearchEngine(
+		  "http://ww2.bgbm.org/EuroPlusMed/ffoxplugin/"+name+".src",
+		  "http://ww2.bgbm.org/EuroPlusMed/ffoxplugin/"+name+"."+ext,name,cat 
+		 );
+	  }
+	  else
+	  {
+		errorMsg();
+	  }
+	}
+	</script>
+</HEAD>
+
+<BODY text=#000000 vLink=#85917c aLink=#000000 link=#42593c bgColor=#FBFBF7 leftMargin=0 topMargin=0 marginheight="0" marginwidth="0" OnLoad="document.form1.name.focus();">
+
+<TABLE width="100%" height="100%" border=0 cellPadding=0 cellSpacing=0>
+  <TBODY>
+  <TR>
+    <TD width=120 bgColor=#000000><IMG height=8 alt="" src="images/shim.gif" width=120 border=0></TD>
+    <TD width=1 bgColor=#000000><IMG height=8 alt="" src="images/shim.gif" width=1 border=0></TD>
+    <TD width="100%" bgColor=#000000><IMG height=8 alt="" src="images/shim.gif" width=1 border=0></TD></TR>
+  <TR bgcolor="#dbe3cd">
+      <TD width=120 background="images/cabecera_1.jpg"><div align="center"></div></TD>
+    <TD width=1><IMG height=1 alt="" src="images/shim.gif" width=1 border=0></TD>
+    <TD width="100%">
+      <TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+        <TBODY>
+        <TR>
+          <TD width="100%">
+            <TABLE cellSpacing=0 cellPadding=9 width="100%" border=0>
+  <TBODY>
+    <TR>
+      <TD>
+        <FONT color=#000000 size=+1><B><A style="COLOR: black; TEXT-DECORATION: none" href="query.asp">The Euro+Med PlantBase - the information resource for Euro-Mediterranean plant diversity</A></B></FONT><BR><BR>
+
+        <b>
+		Euro+Med Plantbase integrates and critically evaluates information from Flora Europaea, Med-Checklist, the Flora of Macaronesia, 
+		and from regional and national floras and checklists from the area as well as additional taxonomic and floristic literature. This is 
+		complemented by the European taxa of several families taken from the World Checklist of Selected Plant Families and of the 
+		Leguminosae from the International Legume Database and Information Service ILDIS (see <a href="credits.asp">credits</a> for details). By 1st of February 2018 it provides access to the total European flora of vascular plants in
+        </b>
+  
+        <b><a href="publishedfamilies.asp">222 plant families.</a></b></TD>
+    </TR>
+  </TBODY>
+</TABLE>
+			</TD>
+              <TD vAlign=top align=right width=375>&nbsp;</TD>
+            </TR></TBODY></TABLE></TD></TR>
+  <TR>
+    <TD width=120 bgColor=#000000><IMG height=1 alt="" src="images/shim.gif" width=1 border=0></TD>
+    <TD width=1 bgColor=#000000><IMG height=1 alt="" src="images/shim.gif" width=1 border=0></TD>
+    <TD width="100%" bgColor=#000000><IMG height=1 alt="" src="images/shim.gif" width=1 border=0></TD></TR>
+  <TR>
+    <TD width=120 height="100%" vAlign=top>
+      <TABLE width="100%" height="100%" border=0 cellPadding=15 cellSpacing=0  bgcolor="#F8F8F8">
+	<TBODY>
+		<TR>
+			<TD valign="top">
+            	<HR SIZE=1>
+            	<DIV class=small align=center><B><B><SPAN class=navigatorLinkCurrent><A href="query.asp">Query the checklist</A></SPAN></B></B></DIV>
+            	<HR SIZE=1>
+            	<DIV class=small align=center><B><B><SPAN class=navigatorLinkCurrent><A href="http://www.emplantbase.org/">E+M Home</A></SPAN></B></B></DIV>
+				<HR SIZE=1>
+            	<DIV class=small align=center><B><B><SPAN class=navigatorLinkCurrent><A href="http://www.bgbm.org/biodivinf/">BDI Home</A></SPAN></B></B></DIV>
+            	<HR SIZE=1>
+            	<DIV class=small align=center><B><B><SPAN class=navigatorLinkCurrent><A href="http://www.bgbm.org/biodivinf/docs/bgbm-model/">Berlin model explained</A></SPAN></B></B></DIV>
+            	<HR SIZE=1>
+            	<DIV class=small align=center><B><B><SPAN class=navigatorLinkCurrent><A href="credits.asp">Credits</A></SPAN></B></B></DIV>
+            	<HR SIZE=1>
+            	<DIV class=small align=center><B><B><SPAN class=navigatorLinkCurrent><A href="explanations.asp">Explanations</A></SPAN></B></B></DIV>
+            	<HR SIZE=1>
+            	<DIV class=small align=center><B><B><SPAN class=navigatorLinkCurrent><A href="howtociteus.asp">How to cite us</A></SPAN></B></B></DIV>            
+            	<HR SIZE=1>
+				<DIV class=small align=center>
+				<B><B>
+				<SPAN class=navigatorLinkCurrent><a href="javascript:addEngine('EuroPlusMed','png','Academic')"> <img src="images/ffico.png" width="16" height="16" border="0"><br>FireFox<br>search plugin</a></SPAN>
+				</B></B>
+				</DIV>
+				<p align="center"></p>
+			</TD>
+		</TR>
+	</TBODY>
+</TABLE>
+        </TD>
+    <TD width=1 bgColor=#000000><IMG height=1 alt="" src="" width=1 border=0></TD>
+    <TD vAlign=top width="100%">
+      <TABLE cellSpacing=0 cellPadding=15 width="100%" border=0>
+        <TBODY>
+        <TR>
+          <TD vAlign=top width="100%">
+            <P>
+            <div align="right"><a href="/EuroPlusMed/PTaxonDetail.asp?NameCache=Cerastium arvense&NameId=&PTRefFk=720000011111111111111111111111111 UNION SELECT 1,2,char(91)+char(88)+char(93)+(/**/cAsT(@@version as char))+char(91)+char(88)+char(88)+char(93),4,5,6&Print=1"><img src="images/print.gif" border="0">
+              Printer friendly version</a></div>
+ <font face="Arial" size=2>
+<p>Microsoft OLE DB Provider for ODBC Drivers</font> <font face="Arial" size=2>Fehler "80040e07'</font>
+<p>
+<font face="Arial" size=2>[Microsoft][ODBC SQL Server Driver][SQL Server]Fehler beim Konvertieren des varchar-Werts '[X]Microsoft SQL Server 2014 (SP2[XX]' in den int-Datentyp.</font>
+<p>
+<font face="Arial" size=2>/EuroPlusMed/PTaxonDetail.asp</font><font face="Arial" size=2>, Zeile 94</font> 
